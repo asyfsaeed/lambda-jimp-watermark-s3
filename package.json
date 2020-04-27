@@ -1,0 +1,27 @@
+{
+  "name": "lambda-jimp-watermark-s3",
+  "version": "1.0.0",
+  "description": "Package to watermark and autoupload images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyfsaeed/lambda-jimp-watermark-s3.git"
+  },
+  "keywords": [
+    "lambda"
+  ],
+  "author": "Asif Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyfsaeed/lambda-jimp-watermark-s3/issues"
+  },
+  "homepage": "https://github.com/asyfsaeed/lambda-jimp-watermark-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.663.0",
+    "jimp": "^0.10.3",
+    "loglevel": "^1.6.8"
+  }
+}
