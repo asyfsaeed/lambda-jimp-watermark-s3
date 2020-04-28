@@ -1,6 +1,6 @@
 {
   "name": "lambda-jimp-watermark-s3",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Package to watermark and autoupload images",
   "main": "index.js",
   "scripts": {
